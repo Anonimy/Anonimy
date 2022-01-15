@@ -2,7 +2,7 @@
 
 # 👋 Hi there
 
-<p style="font-size: 16px">I'm Mateus Larrubia, a brazilian software engineer at <a href="https://www.mercadolivre.com.br/" target="_blank">Mercado Livre</a> and driven by the desire to learn new things. I'm also 22 years old and really worried about the environment.</p>
+<p>I'm Mateus Larrubia, a brazilian software engineer at <a href="https://www.mercadolivre.com.br/" target="_blank">Mercado Livre</a> and driven by the desire to learn new things. I'm also 22 years old and really worried about the environment.</p>
 
 # ⚡ Technologies
 
@@ -27,11 +27,18 @@
     <img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
     <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </span>
-  <a style="float: right" href="https://www.linkedin.com/in/mateus-larrubia-274538138/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
 </div>
+
 <br />
+
+# 📲 Social
+
+<a href="https://www.linkedin.com/in/mateus-larrubia-274538138/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="https://www.instagram.com/mateuslarrubia/" target="_blank">
+  <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 <!--
 **Anonimy/Anonimy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
