@@ -1,8 +1,8 @@
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Anonimy&style=flat)
+<!-- ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Anonimy&style=flat) -->
 
 # 👋 Hi there
 
-<p>I'm Mateus Larrubia, a brazilian software engineer at <a href="https://www.mercadolivre.com.br/" target="_blank">Mercado Livre</a> and driven by the desire to learn new things. I'm also 22 years old and really worried about the environment.</p>
+<p>I'm Mateus Larrubia, a brazilian software engineer at <a href="https://www.mercadolivre.com.br/" target="_blank" rel="noopener noreferrer">Mercado Livre</a> and driven by the desire to learn new things. I'm also 23 years old and really worried about the environment.</p>
 
 # ⚡ Technologies
 
