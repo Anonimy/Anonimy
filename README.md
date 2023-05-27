@@ -36,9 +36,6 @@
 <a href="https://www.linkedin.com/in/mateus-larrubia-274538138/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-<a href="https://www.instagram.com/mateuslarrubia/" target="_blank">
-  <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 
 <!--
 **Anonimy/Anonimy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
